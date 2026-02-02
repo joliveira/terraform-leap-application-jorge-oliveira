@@ -1,0 +1,6 @@
+applicant_name        = "Jorge Oliveira"
+position_applying_for = "Senior DevOps Engineer"
+github_handle         = "@JMOHorhay"
+fun_fact              = "I am a member of the 1000lb club"
+city                  = "El Segundo"
+state                 = "CA"
