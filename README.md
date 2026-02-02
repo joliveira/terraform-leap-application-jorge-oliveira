@@ -8,12 +8,12 @@ This repository fulfills the job application requirement by defining Terraform o
 All personal/application data is supplied via **variables** (no hardcoding in code), with input validation for consistency.
 
 ## Repository Contents
-├── README.md                  # ← You are here
-├── variables.tf               # Variable declarations + validation rules
-├── locals.tf                  # Centralized, computed metadata
-├── outputs.tf                 # Clean, self-documenting outputs
-├── terraform.tfvars           # Template showing how to provide values
-└── .gitignore
+- **README.md** – this overview
+- **variables.tf** – declarations + validation
+- **locals.tf** – metadata assembly
+- **outputs.tf** – required outputs
+- **terraform.tfvars.example** – how to set values
+- **.gitignore** – Terraform ignores
 
 ## How to View the Outputs
 
